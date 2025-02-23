@@ -3,7 +3,7 @@ A collection of projects I've worked on in the past
 
 Welcome to my portfolio repository! This repository contains a collection of projects I was involved in that showcase my skills in software development, problem-solving, and creativity. Each project includes its source code, setup instructions and a brief description.
 
-## Projects
+## Recent Projects
 
 ### 1. The Depth Within (./The_depths_within)
 **Description**: 
@@ -16,11 +16,90 @@ Players must navigate a dangerous dungeon, solving puzzles and battling enemies 
 
 ---
 
+### 2. Bookstore Recommendation System (./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
+---
+
+### 3. Chessformer Puzzle Solver (./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 4. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 5. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 6. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
 ### 2. [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+---
+
+### 2. [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 
 ---
 
@@ -40,10 +119,7 @@ Feel free to explore and reach out if you have questions or feedback!
 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 
-1. Game "The Depth Within"
-   language: Javascript
-   type: group project
-   year: 2020
+
 
    
    
