@@ -90,6 +90,28 @@ This project involves analyzing datasets containing information about books, use
   
 ---
 
+## The Depth Within
+
+🔗 GitHub Repository: (https://github.com/MoltoRubato/the_depth_within)  
+
+![Game Screenshot](https://github.com/user-attachments/assets/12a9342c-d314-45db-afc6-d7bcec02790b)
+
+
+### Overview
+*The Depth Within* is a top-down combat and puzzle game built using HTML and JavaScript.  
+Players must navigate a dangerous dungeon, solving puzzles and battling enemies while managing their health, represented by the brightness of the screen.
+
+### Features
+- **Diverse Challenges**: A variety of puzzle and combat rooms for engaging gameplay.
+- **Dynamic Health System**: Health is visually represented by the screen's brightness, mimicking the light from the torch.
+- **Immersive Experience**: Complementary effects and background music enhance the game environment.
+
+### Technologies Used
+- **Programming Languages**: HTML, JavaScript
+- **Tools**: GarageBand, Adobe Illustrator, Photoshop
+
+---
+
 ## Dictionary with Linked List and Patricia Tree
 
 🔗 GitHub Repository: (https://github.com/MoltoRubato/Patricia-Tree-Dictionary)  
@@ -160,123 +182,6 @@ This project implements a dictionary using a linked list to store and manage inf
 
 ---
 
-## Taxi Trip Data Analysis Assignment
-
-🔗 GitHub Repository: (https://github.com/MoltoRubato/Taxi-Trip-Data-Analysis)  
-
-### Overview
-This project analyses taxi trip data using Python's `pandas`, `matplotlib`, and `re` libraries. The dataset used consists of taxi trips data from January, stored in a CSV file, and the goal is to extract insights, visualize patterns, and evaluate data quality.
-
-### Tasks Overview
-
-#### Task 1: Loading Data and Adding a Column
-- **Objective**: Load the `trips_january.csv` file into a pandas DataFrame, compute the duration of each trip, and add this as a new column `trip_duration`. Output the number of records and the mean trip duration in a JSON file.
-
-#### Task 2: Data Quality
-- **Objective**: Identify abnormal trip distances (values not in the range [0.1, 17.3]) and compute their percentage.
-
-#### Task 3: Data Visualization using Boxplots
-- **Objective**: Create two boxplots comparing trip fares for the morning (07:00 - 11:00) and afternoon (12:00 - 15:00) periods. Output a PNG file of the boxplots.
-
-#### Task 4: Days of the Week Behaviour
-- **Objective**: Add a column `isWeekend` to the DataFrame to mark weekends (1) and weekdays (0), then calculate the percentage of weekend trips.
-
-#### Task 5: Hourly Behaviour
-- **Objective**: Add a column `hour` indicating the hour the trip started, then generate two histograms showing the frequency of taxi trips over the hours of the day, one for weekends and one for weekdays.
-
-#### Task 6: Scatter Plot
-- **Objective**: Compute and plot a scatter plot showing the mean trip distance vs. the mean total amount for each day of the week. Each day should be plotted in a different color.
-
-#### Task 7: Pie Chart
-- **Objective**: Create a pie chart representing the mean trip duration for each day of the week, with percentage values and day labels.
-
-### Tools used  
-- Python
-- pandas, re, matplotlib 
-
-
----
-
-## The Depth Within
-
-🔗 GitHub Repository: (https://github.com/MoltoRubato/the_depth_within)  
-
-![Game Screenshot](Screenshot1.png)
-
-### Overview
-*The Depth Within* is a top-down combat and puzzle game built using HTML and JavaScript.  
-Players must navigate a dangerous dungeon, solving puzzles and battling enemies while managing their health, represented by the brightness of the screen.
-
-### Features
-- **Diverse Challenges**: A variety of puzzle and combat rooms for engaging gameplay.
-- **Dynamic Health System**: Health is visually represented by the screen's brightness, mimicking the light from the torch.
-- **Immersive Experience**: Complementary effects and background music enhance the game environment.
-
-### Technologies Used
-- **Programming Languages**: HTML, JavaScript
-- **Tools**: GarageBand, Adobe Illustrator, Photoshop
-
----
-
-## DBS_Modeling
-
-🔗 GitHub Repository: (https://github.com/MoltoRubato/EV-database-modelling)  
-
-### Overview
-This project is a MySQL-based relational database design for an electric vehicle (EV) charging station system. The system manages information about charging stations, electric vehicles, charging events, and associated facilities such as cafés or restaurants. The database supports querying for various business requirements like tracking charging station ownership, electric vehicle usage, and facility-related discount coupons.
-
-### Key Features
-- **Charging Stations**: Stores information about charging stations, including address, operating hours, and associated outlets. Each outlet has unique charging rates and costs for peak and off-peak hours.
-- **Electric Vehicles**: Tracks EVs by VIN, manufacturer, model, battery capacity, and the company that manufactures them.
-- **Charging Events**: Records each charging event, including which outlet was used, start and end times, and any discount coupons applied.
-- **Facilities**: Manages facilities (like cafés or restaurants) that may be associated with charging stations, including discount coupons for charging events.
-- **Companies**: Tracks companies manufacturing EVs, their CEOs, and their involvement in owning charging stations.
-
-### Models
-- **Conceptual Model**: Designed using Chen's notation, representing the business entities and their relationships.
-- **Physical Model**: Implemented in MySQL Workbench using Crow’s Foot notation, providing the detailed database schema.
-
-### Business Requirements
-The database supports various queries including:
-- Ownership tracking for companies like Tesla.
-- Finding charging stations with specific facilities (e.g., cafés).
-- Calculating total income from charging outlets.
-- Managing charging event details and associated discounts.
-
-## Tools Used
-- **MySQL Workbench** for database modeling.
-
----
-
-## Conference Track-r SQL Assignment
-
-🔗 GitHub Repository: (https://github.com/MoltoRubato/Conference-Track-r-SQL)  
-
-### Overview
-Conference Track-r is a platform designed to track academic conferences, paper submissions, and researcher activities. It manages data about conferences, tracks, sessions, researchers, and papers, including submissions, reviews, presentations, and author-supervisor relationships.
-
-### Key Features
-- **Conferences**: Tracks event details such as location, dates, and session organization.
-- **Tracks**: Each conference has multiple tracks with paper submission guidelines.
-- **Sessions**: Each track contains sessions for paper presentations, with time allocated for each paper.
-- **Researchers**: Manages researcher data, including their supervision relationships and attended conferences.
-- **Papers**: Tracks paper submissions, their review outcomes, and assigned sessions for presentation.
-
-### Database Model
-The system uses an ER model to define relationships between conferences, tracks, researchers, papers, and sessions. The schema supports complex queries about researcher activities, paper submissions, and conference statistics.
-
-### Task
-Write SQL queries to solve 10 questions, each focusing on different aspects of the system, such as:
-- Counting attended researchers for each conference.
-- Identifying the researcher with the most "unique" conferences attended.
-- Analyzing paper acceptance and rejection statistics.
-- Finding relationships between researchers and their influences.
-
-### Technologies  
-- SQL 
-
----
-
 ## Smart Home App Design Project
 
 🔗 GitHub Repository: (https://github.com/MoltoRubato/Smart-Home-App-Design)  
@@ -344,6 +249,101 @@ This project proposes a sound design to accompany NASA’s interactive 3D web ap
   - Public sound library and recorded samples are used.
 - **Volume & Panning**:  
   - Oscillating automations for a sense of motion and evolution.
+
+---
+
+## Taxi Trip Data Analysis Assignment
+
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Taxi-Trip-Data-Analysis)  
+
+### Overview
+This project analyses taxi trip data using Python's `pandas`, `matplotlib`, and `re` libraries. The dataset used consists of taxi trips data from January, stored in a CSV file, and the goal is to extract insights, visualize patterns, and evaluate data quality.
+
+### Tasks Overview
+
+#### Task 1: Loading Data and Adding a Column
+- **Objective**: Load the `trips_january.csv` file into a pandas DataFrame, compute the duration of each trip, and add this as a new column `trip_duration`. Output the number of records and the mean trip duration in a JSON file.
+
+#### Task 2: Data Quality
+- **Objective**: Identify abnormal trip distances (values not in the range [0.1, 17.3]) and compute their percentage.
+
+#### Task 3: Data Visualization using Boxplots
+- **Objective**: Create two boxplots comparing trip fares for the morning (07:00 - 11:00) and afternoon (12:00 - 15:00) periods. Output a PNG file of the boxplots.
+
+#### Task 4: Days of the Week Behaviour
+- **Objective**: Add a column `isWeekend` to the DataFrame to mark weekends (1) and weekdays (0), then calculate the percentage of weekend trips.
+
+#### Task 5: Hourly Behaviour
+- **Objective**: Add a column `hour` indicating the hour the trip started, then generate two histograms showing the frequency of taxi trips over the hours of the day, one for weekends and one for weekdays.
+
+#### Task 6: Scatter Plot
+- **Objective**: Compute and plot a scatter plot showing the mean trip distance vs. the mean total amount for each day of the week. Each day should be plotted in a different color.
+
+#### Task 7: Pie Chart
+- **Objective**: Create a pie chart representing the mean trip duration for each day of the week, with percentage values and day labels.
+
+### Tools used  
+- Python
+- pandas, re, matplotlib 
+
+---
+
+## DBS_Modeling
+
+🔗 GitHub Repository: (https://github.com/MoltoRubato/EV-database-modelling)  
+
+### Overview
+This project is a MySQL-based relational database design for an electric vehicle (EV) charging station system. The system manages information about charging stations, electric vehicles, charging events, and associated facilities such as cafés or restaurants. The database supports querying for various business requirements like tracking charging station ownership, electric vehicle usage, and facility-related discount coupons.
+
+### Key Features
+- **Charging Stations**: Stores information about charging stations, including address, operating hours, and associated outlets. Each outlet has unique charging rates and costs for peak and off-peak hours.
+- **Electric Vehicles**: Tracks EVs by VIN, manufacturer, model, battery capacity, and the company that manufactures them.
+- **Charging Events**: Records each charging event, including which outlet was used, start and end times, and any discount coupons applied.
+- **Facilities**: Manages facilities (like cafés or restaurants) that may be associated with charging stations, including discount coupons for charging events.
+- **Companies**: Tracks companies manufacturing EVs, their CEOs, and their involvement in owning charging stations.
+
+### Models
+- **Conceptual Model**: Designed using Chen's notation, representing the business entities and their relationships.
+- **Physical Model**: Implemented in MySQL Workbench using Crow’s Foot notation, providing the detailed database schema.
+
+### Business Requirements
+The database supports various queries including:
+- Ownership tracking for companies like Tesla.
+- Finding charging stations with specific facilities (e.g., cafés).
+- Calculating total income from charging outlets.
+- Managing charging event details and associated discounts.
+
+## Tools Used
+- **MySQL Workbench** for database modeling.
+
+---
+
+## Conference Track-r SQL Assignment
+
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Conference-Track-r-SQL)  
+
+### Overview
+Conference Track-r is a platform designed to track academic conferences, paper submissions, and researcher activities. It manages data about conferences, tracks, sessions, researchers, and papers, including submissions, reviews, presentations, and author-supervisor relationships.
+
+### Key Features
+- **Conferences**: Tracks event details such as location, dates, and session organization.
+- **Tracks**: Each conference has multiple tracks with paper submission guidelines.
+- **Sessions**: Each track contains sessions for paper presentations, with time allocated for each paper.
+- **Researchers**: Manages researcher data, including their supervision relationships and attended conferences.
+- **Papers**: Tracks paper submissions, their review outcomes, and assigned sessions for presentation.
+
+### Database Model
+The system uses an ER model to define relationships between conferences, tracks, researchers, papers, and sessions. The schema supports complex queries about researcher activities, paper submissions, and conference statistics.
+
+### Task
+Write SQL queries to solve 10 questions, each focusing on different aspects of the system, such as:
+- Counting attended researchers for each conference.
+- Identifying the researcher with the most "unique" conferences attended.
+- Analyzing paper acceptance and rejection statistics.
+- Finding relationships between researchers and their influences.
+
+### Technologies  
+- SQL 
 
 ---
 
