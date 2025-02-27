@@ -5,7 +5,14 @@ Welcome to my portfolio repository! This repository contains a collection of pro
 
 ## Recent Projects
 
-### 1. The Depth Within (./The_depths_within)
+### ShadowTaxi 
+![image](https://github.com/user-attachments/assets/dad06346-aca2-4512-9c03-bfca0346c10c)
+**Description**: "ShadowTaxi" is a survival-based game where you navigate the challenges of being a taxi driver during an economic crisis. Manage resources, avoid hazards, and deliver passengers safely to achieve a target score before time runs out.
+**Technologies**: Java, BAGEL Game Engine 
+**Link**: https://github.com/MoltoRubato/ShadowTaxi 
+---
+
+### The Depth Within (/The_depths_within)
 **Description**: 
 The Depth Within is a top-down combat and puzzle game built using HTML and JavaScript.  
 Players must navigate a dangerous dungeon, solving puzzles and battling enemies while managing their health, represented by the brightness of the screen. 
@@ -16,7 +23,7 @@ Players must navigate a dangerous dungeon, solving puzzles and battling enemies 
 
 ---
 
-### 2. Bookstore Recommendation System (./project-folder-name/)
+### Bookstore Recommendation System (./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
@@ -24,77 +31,110 @@ Players must navigate a dangerous dungeon, solving puzzles and battling enemies 
 
 ---
 
-### 3. Chessformer Puzzle Solver (./project-folder-name/)
+### Chessformer Puzzle Solver (./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
 ---
 
-### 4. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 5. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 6. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
 **Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
 ---
 
-### 2. [Project Name](./project-folder-name/)
+### [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
+---
+
+### [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
+---
+
+### [Project Name](./project-folder-name/)
+**Description**: Briefly describe the project.  
+**Technologies**: List the primary technologies/tools used.  
+**Highlights**: Mention key features or achievements.  
+**Link**: [Live Demo/Deployed App (if available)](https://example.com)  
+
+---
+
+### [Project Name](./project-folder-name/)
 **Description**: Briefly describe the project.  
 **Technologies**: List the primary technologies/tools used.  
 **Highlights**: Mention key features or achievements.  
