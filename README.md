@@ -292,6 +292,9 @@ This project analyses taxi trip data using Python's `pandas`, `matplotlib`, and 
 
 🔗 GitHub Repository: (https://github.com/MoltoRubato/EV-database-modelling)  
 
+![ER Model](https://github.com/user-attachments/assets/e35d2834-1c95-4852-b582-d8f673bb5d41)
+
+
 ### Overview
 This project is a MySQL-based relational database design for an electric vehicle (EV) charging station system. The system manages information about charging stations, electric vehicles, charging events, and associated facilities such as cafés or restaurants. The database supports querying for various business requirements like tracking charging station ownership, electric vehicle usage, and facility-related discount coupons.
 
