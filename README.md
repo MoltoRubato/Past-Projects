@@ -3,6 +3,31 @@ A collection of projects I've worked on in the past
 
 Welcome to my portfolio repository! This repository contains a collection of projects I was involved in that showcase my skills in software development, problem-solving, and creativity. Each project includes its source code, setup instructions and a brief description.
 
+
+
+
+## Cyclops Crashout  
+🔗 GitHub Repository: (https://github.com/MoltoRubato/CyclopsCrashout)  
+🔗 Itch.io Page: (https://moltorubato.itch.io/cyclops-crashout)
+
+### Overview  
+Cyclops Crashout is a two-player fighting game where a wandering knight faces off against a monstrous Cyclops warrior in an epic duel for survival.  
+
+![Cyclops Crashout Gameplay](https://github.com/user-attachments/assets/7b94faef-469f-4ae5-a2ee-c118a6abc4d9)  
+
+### Gameplay Features  
+- **Objective**: Defeat your opponent in a one-on-one battle of strength and strategy.  
+- **Combat System**: Precise timing and movement to outplay your opponent.  
+- **Visual Style**: Retro pixel-art with gritty, fantasy aesthetics.
+- **Audio Design**: Fully **self-made SFX and original soundtrack** to enhance the atmosphere.  
+- **Winning Condition**: Deplete your opponent's health bar to claim victory.  
+
+### Technologies Used  
+- **Unity**  
+- **C#**
+
+---
+
 ## ShadowTaxi  
 🔗 GitHub Repository: (https://github.com/MoltoRubato/ShadowTaxi)
 
