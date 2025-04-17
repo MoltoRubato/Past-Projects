@@ -5,7 +5,6 @@ Welcome to my portfolio repository! This repository contains a collection of pro
 
 
 
-
 ## Cyclops Crashout  
 🔗 GitHub Repository: (https://github.com/MoltoRubato/CyclopsCrashout)  
 🔗 Itch.io Page: (https://moltorubato.itch.io/cyclops-crashout)
@@ -113,28 +112,6 @@ This project involves analyzing datasets containing information about books, use
 - Cross Validation
 - Supervised Data Modeling (Decision Trees, K Nearest Neighbours)
   
----
-
-## The Depth Within
-
-🔗 GitHub Repository: (https://github.com/MoltoRubato/the_depth_within)  
-
-![Game Screenshot](https://github.com/user-attachments/assets/12a9342c-d314-45db-afc6-d7bcec02790b)
-
-
-### Overview
-*The Depth Within* is a top-down combat and puzzle game built using HTML and JavaScript.  
-Players must navigate a dangerous dungeon, solving puzzles and battling enemies while managing their health, represented by the brightness of the screen.
-
-### Features
-- **Diverse Challenges**: A variety of puzzle and combat rooms for engaging gameplay.
-- **Dynamic Health System**: Health is visually represented by the screen's brightness, mimicking the light from the torch.
-- **Immersive Experience**: Complementary effects and background music enhance the game environment.
-
-### Technologies Used
-- **Programming Languages**: HTML, JavaScript
-- **Tools**: GarageBand, Adobe Illustrator, Photoshop
-
 ---
 
 ## Dictionary with Linked List and Patricia Tree
@@ -475,7 +452,27 @@ This repository contains solutions to four data science questions focused on tim
   
 ---
 
+## The Depth Within
 
+🔗 GitHub Repository: (https://github.com/MoltoRubato/the_depth_within)  
+
+![Game Screenshot](https://github.com/user-attachments/assets/12a9342c-d314-45db-afc6-d7bcec02790b)
+
+
+### Overview
+*The Depth Within* is a top-down combat and puzzle game built using HTML and JavaScript.  
+Players must navigate a dangerous dungeon, solving puzzles and battling enemies while managing their health, represented by the brightness of the screen.
+
+### Features
+- **Diverse Challenges**: A variety of puzzle and combat rooms for engaging gameplay.
+- **Dynamic Health System**: Health is visually represented by the screen's brightness, mimicking the light from the torch.
+- **Immersive Experience**: Complementary effects and background music enhance the game environment.
+
+### Technologies Used
+- **Programming Languages**: HTML, JavaScript
+- **Tools**: GarageBand, Adobe Illustrator, Photoshop
+
+---
 
 
 ---
