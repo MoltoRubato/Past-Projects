@@ -3,7 +3,49 @@ A collection of projects I've worked on in the past
 
 Welcome to my portfolio repository! This repository contains a collection of projects I was involved in that showcase my skills in software development, problem-solving, and creativity. Each project includes its source code, setup instructions and a brief description.
 
+## Ryan's AI Job Application Tailor
+🔗 GitHub Repository: (https://github.com/MoltoRubato/JobApplicationTailor)  
+🔗 Live Demo: (https://job-application-tailor.vercel.app)
 
+### Overview
+A smart web application that helps job seekers create tailored cover letters and CV bullet points using AI. Simply upload your resume, paste a job description, and get personalized application materials in seconds. Built as a way to experiment with AI APIs and explore wrapping them into a real project.
+
+### Key Features
+- **Resume Upload**: Support for .txt and .pdf file formats
+- **Job Description Input**: Paste any job description to tailor your application
+- **AI-Generated Content**: Creates custom cover letters and CV bullet points using GPT-4.1
+- **Application History**: Track your previous applications
+- **Responsive Design**: Works seamlessly across desktop and mobile devices
+
+### Technologies Used
+- **Frontend**: React.js with Vite, Tailwind CSS, Lucide React
+- **Backend**: Node.js, Express.js
+- **AI Integration**: GitHub AI API (GPT-4.1)
+- **Deployment**: Vercel
+
+---
+
+## My Personal Website - Interactive Portfolio
+🔗 GitHub Repository: (https://github.com/MoltoRubato/personal-website)  
+🔗 Live Website: (https://ryanhuang.work)
+
+### Overview
+My pixel-art style interactive portfolio website featuring a 2D game environment where visitors can explore and learn about my projects, background, and contact information. Navigate through a cozy room and interact with NPCs representing different sections.
+
+### Key Features
+- **Interactive 2D Environment**: Navigate through a cozy room using WASD or arrow keys
+- **Character Interactions**: Meet NPCs representing different sections (Projects, About, Contact)
+- **Interactive Elements**: Pet animals, play music on a gramophone
+- **Responsive Design**: Clean modal system for content display
+- **Pixel Art Aesthetic**: Custom sprites and animations throughout
+
+### Technologies Used
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Graphics**: HTML5 Canvas API for 2D rendering
+- **Audio**: Web Audio API for background music
+- **Assets**: Custom pixel art sprites and animations
+
+---
 
 ## Cyclops Crashout  
 🔗 GitHub Repository: (https://github.com/MoltoRubato/CyclopsCrashout)  
