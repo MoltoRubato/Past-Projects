@@ -4,6 +4,7 @@ A collection of projects I've worked on in the past
 Welcome to my portfolio repository! This repository contains a collection of projects I was involved in that showcase my skills in software development, problem-solving, and creativity. Each project includes its source code, setup instructions and a brief description.
 
 ## Ryan's AI Job Application Tailor
+![image](https://github.com/user-attachments/assets/1e91ad4b-44cb-4bcb-b23c-bbfe7e00c544)
 🔗 GitHub Repository: (https://github.com/MoltoRubato/JobApplicationTailor)  
 🔗 Live Demo: (https://job-application-tailor.vercel.app)
 
@@ -26,6 +27,7 @@ A smart web application that helps job seekers create tailored cover letters and
 ---
 
 ## My Personal Website - Interactive Portfolio
+![image](https://github.com/user-attachments/assets/fd451013-a991-474c-b5e3-9a7fcd922de5)
 🔗 GitHub Repository: (https://github.com/MoltoRubato/personal-website)  
 🔗 Live Website: (https://ryanhuang.work)
 
@@ -46,6 +48,93 @@ My pixel-art style interactive portfolio website featuring a 2D game environment
 - **Assets**: Custom pixel art sprites and animations
 
 ---
+
+## Droning On - Drone-Based Parcel Delivery Simulation
+🔗 GitHub Repository: (https://github.com/MoltoRubato/drone)
+
+### Overview
+A drone-based parcel delivery simulation system developed for Delivering Solutions Inc. (DS). It models the behavior of a fleet of delivery drones operating from a dispatch center to suburban homes, simulating parcel deliveries in compliance with Australian Government regulations.
+
+### Key Features
+- **Drone Movement & Navigation**: Drones fly exclusively over mapped roads for safety, moving step-by-step along linked structures
+- **Parcel Delivery Workflow**: Drones cycle through defined states from dispatch to delivery and return
+- **Parcel Types**: Distinguishes fragile and heavy parcels, affecting drone speed and delivery priority
+- **Contention Management**: Dispatch center manages access requests with priority-based resolution
+- **Priority Access System**: Grants location access based on parcel type and drone position
+- **Simulation Time-Stepping**: Discrete time-step operations with detailed logging and statistics
+
+### Technologies Used
+- **Java 11+**
+- **Gradle**
+- **State Machine Design Pattern**
+- **Linked Data Structures**
+
+---
+
+## Pinochle Game
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Pinochle)
+
+### Overview
+A digital implementation of the classic Pinochle card game developed for CardCraft Studio, Melbourne. This project improves upon the original version's design and maintainability issues while preserving the original gameplay experience.
+
+### Key Features
+- **Two-Player Gameplay**: Human player vs. computer player with GUI interface
+- **Full Pinochle Support**: Standard melds, scoring, bidding, and trick-taking mechanics
+- **Smart Computer Player**: Improved bidding strategy and trick-taking with card memory
+- **Cut-Throat Mode**: Includes stockpile card draw phase and card discarding
+- **Auto-Play Mode**: Configurable testing mode with different player types
+- **Extendable Design**: Modular architecture for future enhancements
+
+### Technologies Used
+- **Java 11+**
+- **JGameGrid Library**
+- **Gradle Build System**
+- **GUI Interface**
+
+---
+
+## Virtual Memory Manager
+🔗 GitHub Repository: (https://github.com/MoltoRubato/virtual-memory-manager)
+
+### Overview
+A C program that simulates a virtual memory management system with TLB (Translation Lookaside Buffer) and page table for address translation, implementing FIFO page replacement and LRU TLB replacement algorithms.
+
+### Key Features
+- **Address Translation**: Converts logical addresses to physical addresses using TLB and page table lookups
+- **Memory Configuration**: 4MB logical space, 1MB physical space, 4KB page/frame size
+- **FIFO Page Replacement**: First-In-First-Out algorithm for page eviction when memory is full
+- **TLB Integration**: 32-entry Translation Lookaside Buffer with LRU replacement policy
+- **Multiple Tasks**: Four progressive implementations from basic parsing to full TLB integration
+
+### Technologies Used
+- **C Programming Language**
+- **GCC Compiler**
+- **Make Build System**
+- **Memory Management Algorithms**
+
+---
+
+## htproxy - HTTP/1.1 Web Proxy
+🔗 GitHub Repository: (https://github.com/MoltoRubato/htproxy)
+
+### Overview
+A simple caching web proxy for HTTP/1.1 requests written in C, implementing intelligent caching strategies and HTTP compliance. Features multi-stage development from basic proxying to full HTTP-compliant caching.
+
+### Key Features
+- **Basic Proxying**: Forwards HTTP GET requests to origin servers with IPv4/IPv6 support
+- **LRU Caching**: Least Recently Used cache with 10 entries and intelligent eviction
+- **HTTP Compliance**: Respects Cache-Control headers and HTTP caching directives
+- **Cache Expiration**: Implements max-age directive support with automatic stale entry handling
+- **Detailed Logging**: Comprehensive request/response logging for debugging and monitoring
+
+### Technologies Used
+- **C Programming Language**
+- **POSIX Sockets**
+- **HTTP/1.1 Protocol**
+- **GCC Compiler**
+
+---
+
 
 ## Cyclops Crashout  
 🔗 GitHub Repository: (https://github.com/MoltoRubato/CyclopsCrashout)  
