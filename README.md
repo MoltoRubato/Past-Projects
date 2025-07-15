@@ -28,7 +28,7 @@ A smart web application that helps job seekers create tailored cover letters and
 
 ## My Personal Website - Interactive Portfolio
 ![image](https://github.com/user-attachments/assets/fd451013-a991-474c-b5e3-9a7fcd922de5)
-🔗 GitHub Repository: (https://github.com/MoltoRubato/personal-website)  
+🔗 GitHub Repository: (https://github.com/MoltoRubato/MyWebsite)  
 🔗 Live Website: (https://ryanhuang.work)
 
 ### Overview
@@ -50,7 +50,7 @@ My pixel-art style interactive portfolio website featuring a 2D game environment
 ---
 
 ## Droning On - Drone-Based Parcel Delivery Simulation
-🔗 GitHub Repository: (https://github.com/MoltoRubato/drone)
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Drone_delivery_system)
 
 ### Overview
 A drone-based parcel delivery simulation system developed for Delivering Solutions Inc. (DS). It models the behavior of a fleet of delivery drones operating from a dispatch center to suburban homes, simulating parcel deliveries in compliance with Australian Government regulations.
@@ -94,7 +94,7 @@ A digital implementation of the classic Pinochle card game developed for CardCra
 ---
 
 ## Virtual Memory Manager
-🔗 GitHub Repository: (https://github.com/MoltoRubato/virtual-memory-manager)
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Memory_manager)
 
 ### Overview
 A C program that simulates a virtual memory management system with TLB (Translation Lookaside Buffer) and page table for address translation, implementing FIFO page replacement and LRU TLB replacement algorithms.
@@ -115,7 +115,7 @@ A C program that simulates a virtual memory management system with TLB (Translat
 ---
 
 ## htproxy - HTTP/1.1 Web Proxy
-🔗 GitHub Repository: (https://github.com/MoltoRubato/htproxy)
+🔗 GitHub Repository: (https://github.com/MoltoRubato/Web_proxy)
 
 ### Overview
 A simple caching web proxy for HTTP/1.1 requests written in C, implementing intelligent caching strategies and HTTP compliance. Features multi-stage development from basic proxying to full HTTP-compliant caching.
