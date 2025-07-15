@@ -621,7 +621,7 @@ Feel free to explore and reach out if you have questions or feedback!
 ## Contact
 **Ryan Huang**  
 **GitHub**: [github.com/MoltoRubato](https://github.com/MoltoRubato)  
-**LinkedIn**: [linkedin.com/in/Ryan_Huang](https://www.linkedin.com/in/ryan-huang-1419b8258)
+**LinkedIn**: [linkedin.com/in/Ryan_Huang](https://www.linkedin.com/in/kerui-huang/)
 
 
 
